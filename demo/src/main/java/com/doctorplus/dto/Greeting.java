@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.doctorplus.dto;
 
 //public record Greeting(long id, String content) { }
 
