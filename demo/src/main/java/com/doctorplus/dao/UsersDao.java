@@ -99,6 +99,4 @@ public class UsersDao extends ConnectionDao{
 	    return ps;
 	}
 	
-	//public boolean saveRecipe(...) {}
-	//private PreparedStatement saveRecipe(...){}
 }
